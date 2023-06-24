@@ -1,0 +1,5 @@
+br\unibh\sdm\backend_usuario\persistencia\ClienteRepository.class
+br\unibh\sdm\backend_usuario\entidades\Cliente.class
+br\unibh\sdm\backend_usuario\rest\ClienteController.class
+br\unibh\sdm\backend_usuario\Application.class
+br\unibh\sdm\backend_usuario\negocio\ClienteService.class
